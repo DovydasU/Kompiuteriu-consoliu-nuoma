@@ -7,6 +7,7 @@
     <link href="style.css" type="stylesheet">
     <title>Document</title>
 </head>
+<h2>Labas</h2>
 <canvas id="canvas"></canvas>
-<script src="myScript.js"></script>
+<script src="script.js"></script>
 </html>
