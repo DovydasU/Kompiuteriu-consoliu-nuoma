@@ -7,13 +7,6 @@
     <link href="style.css" type="stylesheet">
     <title>Document</title>
 </head>
-<body>
-    <h1>Darbas</h1>
-    <div id="canvas-shapes"></div>
-<div class="content">
-  <h1>Canvas Shapes</h1>
-  <h2>Change shapes/size as you want</h2>
-</div>  
-<!--You Can Change shapes With "circle" , "square" , "triangle", "hexa" or custom image at Bottom of Js code -->
-</body>
+<canvas id="canvas"></canvas>
+<script src="myScript.js"></script>
 </html>
